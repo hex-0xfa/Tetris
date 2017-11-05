@@ -13,6 +13,7 @@ namespace Tetris
     public partial class Form1 : Form
     {
         private int m;
+        private int test;
         public Form1()
         {
             InitializeComponent();
